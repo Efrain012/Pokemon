@@ -1,0 +1,47 @@
+body{
+    background-color: goldenrod;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+    color:white;
+    margin-right: 40px;
+    margin-left: 20px;
+}
+
+ul{
+    font-size: 20px;
+    font-family: sans-serif;
+    color:white
+}
+
+.github{
+    font-size: 80px;
+    font-family: fantasy;
+    text-align: center;
+    line-height: 0vb;
+    font-weight: 100;
+    margin-top: 120px;
+    color: red;
+    
+}
+
+#tituloPrincipal{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: slateblue;
+}
+
+#subtitulo{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blueviolet;
+}
+
+.imagen{
+    margin-left: 400px;
+}
