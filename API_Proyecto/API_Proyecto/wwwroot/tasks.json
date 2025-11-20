@@ -1,0 +1,50 @@
+[
+  { 
+    "id": "item-001",
+    "title": "Card 1 (Adapted)", 
+    "description": "Description for Card 1",
+    "priority": "High",
+    "type": "Bug",
+    "status": "active"
+  },
+  { 
+    "id": "item-002",
+    "title": "Card 2 (Adapted)", 
+    "description": "Description for Card 2",
+    "priority": "Medium",
+    "type": "Feature" ,
+    "status": "active"
+  },
+  { 
+    "id": "item-003",
+    "title": "Card 3 (Adapted)", 
+    "description": "Description for Card 3",
+    "priority": "Low",
+    "type": "Task",
+    "status": "inactive"
+  },
+  { 
+    "id": "item-004",
+    "title": "Fix the main login flow", 
+    "description": "Users are reporting they cannot log in.",
+    "priority": "High",
+    "type": "Bug",
+    "status": "inactive"
+  },
+  { 
+    "id": "item-005",
+    "title": "Deploy new homepage", 
+    "description": "The new homepage is complete and staged.",
+    "priority": "Medium",
+    "type": "Feature",
+    "status": "inactive"
+  },
+  { 
+    "id": "item-006",
+    "title": "Refactor database component", 
+    "description": "Code review is needed for the new DB logic.",
+    "priority": "Medium",
+    "type": "Task",
+    "status": "inactive"
+  }
+]

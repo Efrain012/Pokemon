@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "API_Proyecto.Controllers.DataController",
+    "Method": "GetProjects",
+    "RelativePath": "api/Data/projects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "owner",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Proyecto.Controllers.DataController",
+    "Method": "GetTaskById",
+    "RelativePath": "api/Data/task/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Proyecto.Controllers.DataController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Data/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

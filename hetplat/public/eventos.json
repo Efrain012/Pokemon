@@ -1,0 +1,32 @@
+{
+    "eventos": [
+        {
+            "id": "1",
+            "title": "Deadline: Autenticación",
+            "fecha-inicio": "2024-10-20",
+            "fecha-final": "2024-10-20",
+            "tipo": "deadline"
+        },
+        {
+            "id": "2",
+            "title": "Sprint 1",
+            "fecha-inicio": "2024-10-15",
+            "fecha-final": "2024-10-29",
+            "tipo": "sprint"
+        },
+        {
+            "id": "3",
+            "title": "Completado: Diseño UI",
+            "fecha-inicio": "2024-10-17",
+            "fecha-final": "2024-10-17",
+            "tipo": "completado"
+        },
+        {
+            "id": "4",
+            "title": "Deadline: Testing",
+            "fecha-inicio": "2024-10-25",
+            "fecha-final": "2024-10-25",
+            "tipo": "deadline"
+        }
+    ]
+}

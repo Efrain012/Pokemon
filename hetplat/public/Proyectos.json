@@ -1,0 +1,25 @@
+[
+    
+{
+    "id" : "1",
+    "Tipo" : "Scrum",
+    "Nombre" : "proyecto1",
+    "Descripcion" : "hola"
+},
+{
+    "id" : "1",
+    "Tipo" : "Waterfall",
+    "Nombre" : "proyecto1_waterfall",
+    "Descripcion" : "adios"
+},
+{
+    "id" : "2",
+    "Tipo" : "Scrum",
+    "Nombre" : "proyecto2",
+    "Descripcion" : "vacio"
+}
+
+
+
+
+]

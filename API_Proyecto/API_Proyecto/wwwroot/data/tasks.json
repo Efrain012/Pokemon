@@ -1,0 +1,120 @@
+[
+  { 
+    "id": "item-001",
+    "title": "Card 1 (Adapted)", 
+    "description": "Description for Card 1",
+    "priority": "High",
+    "type": "Bug",
+    "status": "active",
+    "projectId" : "1",
+    "start": "2025-10-16",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-002",
+    "title": "Card 2 (Adapted)", 
+    "description": "Description for Card 2",
+    "priority": "Medium",
+    "type": "Feature",
+    "status": "active",
+    "projectId" : "1",
+    "dependsOn" : "item-001",
+    "start": "2025-10-16",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-003",
+    "title": "Card 3 (Adapted)", 
+    "description": "Description for Card 3",
+    "priority": "Low",
+    "type": "Task",
+    "status": "inactive",
+    "projectId" : "1",
+    "dependsOn" : "item-002",
+    "start": "2025-10-2",
+    "deadline": "2025-10-5"
+  },
+  { 
+    "id": "item-004",
+    "title": "Fix the main login flow", 
+    "description": "Users are reporting they cannot log in.",
+    "priority": "High",
+    "type": "Bug",
+    "status": "inactive",
+    "projectId" : "1",
+    "start": "2025-10-16",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-005",
+    "title": "Deploy new homepage", 
+    "description": "The new homepage is complete and staged.",
+    "priority": "Medium",
+    "type": "Feature",
+    "status": "inactive",
+    "projectId" : "1",
+    "dependsOn" : ["item-006","item-001"],
+    "start": "2025-10-16",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-006",
+    "title": "Refactor database component", 
+    "description": "Code review is needed for the new DB logic.",
+    "priority": "Medium",
+    "type": "Task",
+    "status": "inactive",
+    "projectId" : "1",
+    "dependsOn" : "item-004",
+    "start": "2025-10-16",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-007",
+    "title": "Task 7", 
+    "description": "Code review is needed for the new DB logic.",
+    "priority": "Medium",
+    "type": "Task",
+    "status": "inactive",
+    "projectId" : "1",
+    "dependsOn" : "item-006",
+    "start": "2025-10-16",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-008",
+    "title": "Task 8", 
+    "description": "Code review is needed for the new DB logic.",
+    "priority": "Medium",
+    "type": "Task",
+    "status": "active",
+    "projectId" : "1",
+    "dependsOn" : ["item-003", "item-002"],
+    "start": "2025-10-14",
+    "deadline": "2025-10-18"
+  },
+  { 
+    "id": "item-009",
+    "title": "Task 9", 
+    "description": "Scrollinggggg.",
+    "priority": "Medium",
+    "type": "Task",
+    "status": "active",
+    "projectId" : "1",
+    "dependsOn" : ["item-003", "item-008"],
+    "start": "2025-10-16",
+    "deadline": "2025-10-19"
+  },
+  { 
+    "id": "item-010",
+    "title": "Task 10", 
+    "description": "Random Task.",
+    "priority": "High",
+    "type": "Task",
+    "status": "active",
+    "projectId" : "2",
+    "dependsOn" : ["item-003", "item-008"],
+    "start": "2025-10-16",
+    "deadline": "2025-11-18"
+  }
+]
