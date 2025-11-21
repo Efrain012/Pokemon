@@ -42,7 +42,6 @@ namespace API_Proyecto.Controllers
         }
 
         // PUT: api/Persons/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutPerson(Guid id, Person person)
         {
@@ -73,7 +72,6 @@ namespace API_Proyecto.Controllers
         }
 
         // POST: api/Persons
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Person>> PostPerson(Person person)
         {

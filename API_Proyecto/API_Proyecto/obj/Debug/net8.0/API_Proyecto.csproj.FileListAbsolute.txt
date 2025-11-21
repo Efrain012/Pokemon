@@ -337,3 +337,4 @@ C:\Users\lange\OneDrive\Documentos\GitHub\HetplatProyecto\API_Proyecto\API_Proye
 C:\Users\lange\OneDrive\Documentos\GitHub\HetplatProyecto\API_Proyecto\API_Proyecto\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\lange\OneDrive\Documentos\GitHub\HetplatProyecto\API_Proyecto\API_Proyecto\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\lange\OneDrive\Documentos\GitHub\HetplatProyecto\API_Proyecto\API_Proyecto\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\lange\OneDrive\Documentos\GitHub\HetplatProyecto\API_Proyecto\API_Proyecto\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

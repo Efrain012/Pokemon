@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\projectsobsolete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\projectsobsolete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\servicios\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\servicios\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,48 +79,8 @@
       "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\eventtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\servicios\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\servicios\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\models\\projectsobsolete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\models\\projectsobsolete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|c:\\users\\lange\\onedrive\\documentos\\github\\hetplatproyecto\\api_proyecto\\api_proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A003BBB-BBC4-4BAE-BB62-D42E8A71451E}|API_Proyecto\\API_Proyecto.csproj|solutionrelative:api_proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,76 +90,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Controllers\\ProjectsController.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "API_Proyecto\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAIYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:08:06.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T12:08:06.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Controllers\\PersonsController.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\PersonsController.cs",
               "RelativeToolTip": "API_Proyecto\\Controllers\\PersonsController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswEkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:07:03.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T12:07:03.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "API_Proyecto\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "API_Proyecto\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "API_Proyecto\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "API_Proyecto\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwGwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T11:07:17.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T11:07:17.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Controllers\\EventsController.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\EventsController.cs",
               "RelativeToolTip": "API_Proyecto\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:54:14.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:54:14.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "ApiController.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\ApiController.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Controllers\\ApiController.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Controllers\\ApiController.cs",
               "RelativeToolTip": "API_Proyecto\\Controllers\\ApiController.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAAAK0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAK0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:15:06.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:15:06.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "ProjectMember.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\ProjectMember.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\ProjectMember.cs",
@@ -167,25 +174,23 @@
               "RelativeToolTip": "API_Proyecto\\Models\\ProjectMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:04:09.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:04:09.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Project.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\Project.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Project.cs",
               "RelativeToolTip": "API_Proyecto\\Models\\Project.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:03:51.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:03:51.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "EventTask.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\EventTask.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\EventTask.cs",
@@ -193,12 +198,11 @@
               "RelativeToolTip": "API_Proyecto\\Models\\EventTask.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:03:12.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:03:12.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "TaskDependency.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\TaskDependency.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\TaskDependency.cs",
@@ -206,8 +210,7 @@
               "RelativeToolTip": "API_Proyecto\\Models\\TaskDependency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T09:32:49.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T09:32:49.222Z"
             },
             {
               "$type": "Document",
@@ -217,7 +220,7 @@
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Person.cs",
               "RelativeToolTip": "API_Proyecto\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T09:32:15.469Z",
               "EditorCaption": ""
@@ -225,78 +228,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "API_Proyecto\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Task.cs",
-              "RelativeToolTip": "API_Proyecto\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "API_Proyecto\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\TaskItem.cs",
+              "RelativeToolTip": "API_Proyecto\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T09:31:52.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T09:31:52.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Event.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\Event.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Event.cs",
               "RelativeToolTip": "API_Proyecto\\Models\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T03:19:21.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T03:19:21.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\appsettings.json",
               "RelativeDocumentMoniker": "API_Proyecto\\appsettings.json",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\appsettings.json",
               "RelativeToolTip": "API_Proyecto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-18T07:44:21.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\AppDbContext.cs",
               "RelativeToolTip": "API_Proyecto\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:59:51.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T06:59:51.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Program.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Program.cs",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Program.cs",
               "RelativeToolTip": "API_Proyecto\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:51:14.541Z"
+              "WhenOpened": "2025-11-18T06:51:14.541Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API_Proyecto\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\appsettings.Development.json",
               "RelativeToolTip": "API_Proyecto\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-18T06:33:35.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T06:33:35.221Z"
             },
             {
               "$type": "Document",
@@ -308,8 +308,7 @@
               "RelativeToolTip": "API_Proyecto\\Models\\Tarea.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAUwEcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T01:55:48.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T01:55:48.893Z"
             },
             {
               "$type": "Document",
@@ -321,12 +320,11 @@
               "RelativeToolTip": "API_Proyecto\\Servicios\\ManagerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:36:20.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T02:36:20.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\Usuario.cs",
@@ -334,12 +332,11 @@
               "RelativeToolTip": "API_Proyecto\\Models\\Usuario.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAFgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:27:00.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T02:27:00.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "ProjectsObsolete.cs",
               "DocumentMoniker": "C:\\Users\\lange\\OneDrive\\Documentos\\GitHub\\HetplatProyecto\\API_Proyecto\\API_Proyecto\\Models\\ProjectsObsolete.cs",
               "RelativeDocumentMoniker": "API_Proyecto\\Models\\ProjectsObsolete.cs",
@@ -347,16 +344,7 @@
               "RelativeToolTip": "API_Proyecto\\Models\\ProjectsObsolete.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T01:55:34.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-11-18T01:55:34.043Z"
             }
           ]
         }

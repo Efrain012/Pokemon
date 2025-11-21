@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -41,8 +41,17 @@ namespace API_Proyecto.Controllers
             return project;
         }
 
+        // POST: api/Projects
+        [HttpPost]
+        public async Task<ActionResult<Project>> PostProject(Project project)
+        {
+            _context.Projects.Add(project);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction("GetProject", new { id = project.Id }, project);
+        }
+
         // PUT: api/Projects/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutProject(Guid id, Project project)
         {
@@ -72,22 +81,12 @@ namespace API_Proyecto.Controllers
             return NoContent();
         }
 
-        // POST: api/Projects
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
-        public async Task<ActionResult<Project>> PostProject(Project project)
-        {
-            _context.Projects.Add(project);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetProject", new { id = project.Id }, project);
-        }
-
         // DELETE: api/Projects/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProject(Guid id)
         {
             var project = await _context.Projects.FindAsync(id);
+
             if (project == null)
             {
                 return NotFound();
@@ -102,6 +101,49 @@ namespace API_Proyecto.Controllers
         private bool ProjectExists(Guid id)
         {
             return _context.Projects.Any(e => e.Id == id);
+        }
+
+        [HttpGet("test-connection")]
+        public async Task<IActionResult> TestConnection()
+        {
+            try
+            {
+                var canConnect = await _context.Database.CanConnectAsync();
+
+                if (canConnect)
+                {
+                    var projectCount = await _context.Projects.CountAsync();
+                    var taskCount = await _context.TaskItems.CountAsync();
+                    var eventCount = await _context.Events.CountAsync();
+                    var personCount = await _context.People.CountAsync();
+
+                    return Ok(new
+                    {
+                        connected = true,
+                        message = "Connection successful!",
+                        counts = new
+                        {
+                            projects = projectCount,
+                            taskItems = taskCount,
+                            events = eventCount,
+                            people = personCount
+                        }
+                    });
+                }
+                else
+                {
+                    return BadRequest(new { connected = false, message = "Cannot connect to database" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new
+                {
+                    connected = false,
+                    error = ex.Message,
+                    innerError = ex.InnerException?.Message
+                });
+            }
         }
     }
 }

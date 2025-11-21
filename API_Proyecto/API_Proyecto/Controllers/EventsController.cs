@@ -41,8 +41,17 @@ namespace API_Proyecto.Controllers
             return @event;
         }
 
+        // POST: api/Events
+        [HttpPost]
+        public async Task<ActionResult<Event>> PostEvent(Event @event)
+        {
+            _context.Events.Add(@event);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction("GetEvent", new { id = @event.Id }, @event);
+        }
+
         // PUT: api/Events/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutEvent(Guid id, Event @event)
         {
@@ -72,22 +81,12 @@ namespace API_Proyecto.Controllers
             return NoContent();
         }
 
-        // POST: api/Events
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
-        public async Task<ActionResult<Event>> PostEvent(Event @event)
-        {
-            _context.Events.Add(@event);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetEvent", new { id = @event.Id }, @event);
-        }
-
         // DELETE: api/Events/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteEvent(Guid id)
         {
             var @event = await _context.Events.FindAsync(id);
+
             if (@event == null)
             {
                 return NotFound();
